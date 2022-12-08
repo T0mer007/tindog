@@ -1,0 +1,179 @@
+body{
+  font-family: Montserrat;
+}
+
+.hihi{
+  font-family:"Montserrat";
+  font-size: 2.4rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+#title {
+   color:#fff;
+  background-color: #ff4c68;
+  position: relative;
+  z-index: 1;
+}
+/* Title img */
+.Title-img{
+  width:60%;
+  transform: rotate(25deg);
+  padding-top: 100px;
+  position: absolute;
+  z-index: -1;
+}
+.features{
+  padding: 7% 15%;
+background-color: white;
+  position:relative;
+  text-align: center;
+  z-index: 1;
+}
+
+.haha {
+font-family: 'Montserrat-Bold', sans-serif;
+ font-size: 2.8rem;
+ font-weight: bolder;
+ line-height: 1.5;
+}
+p{
+  color: #8f8f8f;
+}
+.cotainer-fluid{
+padding: 3% 15%;
+}
+
+/* navigatipn bar */
+ .navbar-brand {
+   font-family: "ubuntu";
+   font-weight: bold;
+padding: 0 0 18px;
+
+ }
+ #pini{
+   font-size: 2.5rem;
+ }
+.navbar {
+  font-size: 3.5rem;
+  margin: 0 0 18px;
+  position: relative;
+  z-index: 0;
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.nav-link{
+  font-size: 1.2rem;
+font-weight: lighter;
+}
+#moshe{
+  padding: 0 0 18px;
+
+}
+/* Download bottons */
+
+.db{
+  margin: 5% 3% 5% 0;
+}
+
+
+
+/* icons */
+
+.hh3{
+  font-family: "Montserrat";
+  font-weight: 900;
+    font-size: 2rem;
+
+
+}
+.easy{
+  font-family: "Montserrat";
+  font-weight: 100;
+    font-size: 1rem;
+    text-align: center;
+    padding:20px 200px 80px 0;
+    position: absolute;
+
+}
+/* .ttim{
+  position: absolute;
+  z-index: -1;
+text-align: right;
+  margin-top:60%;
+
+} */
+
+
+
+.iconim{
+  color: #ef8172;
+  padding: 2rem;
+
+}
+.iconim:hover{
+  color: #ff4c68;
+}
+
+/* testemonial section */
+#testimonials{
+
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+
+.test-img{
+  width:18%;
+  border-radius: 100%;
+  margin: 30px;
+
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.pres-logo{
+width: 15%;
+margin: 20px 20px 20px 50px;
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+/* pricing section */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pcpc{
+  padding: 3% 2%;
+}
+
+#cta{
+  font-family:"Montserrat";
+
+  text-align:1.5;
+  text-align: center;
+  background-color:  #ff4c68;
+  padding: 7% 15%;
+  color:#fff;
+}
+
+.hahi{
+  font-size: 3rem;
+  font-weight:900;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.inna{
+  margin: 15px 20px;
+}
